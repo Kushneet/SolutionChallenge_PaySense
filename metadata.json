@@ -1,0 +1,6 @@
+{
+  "name": "PaySense Financial Snapshot",
+  "description": "A friendly AI financial assistant dashboard showing salary extraction, tax saving headroom, and loan eligibility based on the uploaded payslip.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
