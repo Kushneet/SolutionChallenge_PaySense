@@ -6,9 +6,9 @@
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
-👉 https://aistudio.google.com/apps/6bbc0c65-502e-48f8-924c-acf1cd77653f
+https://remix-paysense-financial-snapshot-683203288975.asia-southeast1.run.app/
 
 ---
 
